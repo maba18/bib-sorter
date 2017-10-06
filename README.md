@@ -4,7 +4,7 @@ A simple python script that takes a bib file and generated a sorted version (on 
 
 For example:
 
-####### Input file
+Input file:
 
 @article{harman2001search,
   title={Search-based software engineering},
@@ -19,7 +19,7 @@ For example:
 }
 
 
-####### Output file
+Output file:
 
 @article{Georges:2008:JPE:1449955.1449794,
  author = {Georges, Andy and Eeckhout, Lieven and Buytaert, Dries},
